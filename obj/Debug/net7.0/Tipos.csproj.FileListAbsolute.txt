@@ -1,0 +1,15 @@
+/home/scurvyy/dev/dotnet/Tipos/bin/Debug/net7.0/Tipos
+/home/scurvyy/dev/dotnet/Tipos/bin/Debug/net7.0/Tipos.deps.json
+/home/scurvyy/dev/dotnet/Tipos/bin/Debug/net7.0/Tipos.runtimeconfig.json
+/home/scurvyy/dev/dotnet/Tipos/bin/Debug/net7.0/Tipos.dll
+/home/scurvyy/dev/dotnet/Tipos/bin/Debug/net7.0/Tipos.pdb
+/home/scurvyy/dev/dotnet/Tipos/obj/Debug/net7.0/Tipos.csproj.AssemblyReference.cache
+/home/scurvyy/dev/dotnet/Tipos/obj/Debug/net7.0/Tipos.GeneratedMSBuildEditorConfig.editorconfig
+/home/scurvyy/dev/dotnet/Tipos/obj/Debug/net7.0/Tipos.AssemblyInfoInputs.cache
+/home/scurvyy/dev/dotnet/Tipos/obj/Debug/net7.0/Tipos.AssemblyInfo.cs
+/home/scurvyy/dev/dotnet/Tipos/obj/Debug/net7.0/Tipos.csproj.CoreCompileInputs.cache
+/home/scurvyy/dev/dotnet/Tipos/obj/Debug/net7.0/Tipos.dll
+/home/scurvyy/dev/dotnet/Tipos/obj/Debug/net7.0/refint/Tipos.dll
+/home/scurvyy/dev/dotnet/Tipos/obj/Debug/net7.0/Tipos.pdb
+/home/scurvyy/dev/dotnet/Tipos/obj/Debug/net7.0/Tipos.genruntimeconfig.cache
+/home/scurvyy/dev/dotnet/Tipos/obj/Debug/net7.0/ref/Tipos.dll

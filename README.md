@@ -15,3 +15,24 @@
 
 ### O que é uma variável?
 - Variável é um tipo que ficará referenciado ou armazenado na memória do computador.
+
+# Tipos de variáveis
+
+### var
+- Usado para definir uma variável sem declarar seu tipo.
+
+### string
+- Utilizado para declarar uma variável tipo texto.
+
+### int
+- Definido para instancionar uma variável tipo número inteiro.
+
+### decimal
+- Tipo de dado definido para utilizar números com casas decimais.
+
+### double
+- Utilizado para definir um tipo de dado número para suportar dois grandes números, seja decimal ou inteiro.
+
+### float
+- Tipo de dado usado para definir um número de ponto flutuante para seu número.
+

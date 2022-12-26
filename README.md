@@ -52,6 +52,20 @@
 
 - **Long** - Define números inteiros que atinge uma quantidade maior de finalidade. (-9.223.372.036.854.775.808 a 9.223.372.036.854.775.807 com somente números inteiros).
 
+- **sbyte** - tipo alongado do tipo byte. (-128 a 127).
+
+- **short** - Armazena uma quantidade certa de números inteiros somente. (-32.768 a 32.767).
+
+- **uint** - Armazena um número do tipo int alongado. (0 a 4.294.967.295 - inteiros somente) 
+
+- **ulong** - Variável do tipo long alongado. (0 a 18.446.744.073.709.551.615- inteiros somente)
+
+- **ushort** - Variável do tipo short alongado. (0 a 65.535 - inteiros somente)
+
+- **enum** - Conjunto de constantes nomeados.
+
+- **struct** - Agrupa pequenos grupos de variáveis relacionadas.
+
 --- 
 
 # Boas práticas para criação de nomes de váriaveis

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+vb6U6Vg0h+UYjdPWW0hWZRi0xe/N+toslObfmRzxj/lvYLehCaNeRVi52vtr4KIP0g1Nv4z4hmRfofQd7BVBg==",
+  "success": true,
+  "projectFilePath": "/home/scurvyy/dev/dotnet/Tipos/Tipos.csproj",
+  "expectedPackageFiles": [
+    "/home/scurvyy/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

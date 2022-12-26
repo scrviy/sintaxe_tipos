@@ -1,7 +1,5 @@
 #  *Sintaxe e Tipos de valor em C# - .NET*
 
----
-
 ### O que é sintaxe?
 - ***Sintaxe*** é o nome dado ao ambiente em que uma ***linguagem de programação é escrita***, por exemplo, cada linguagem de programação tem sua própria sintaxe.
 
